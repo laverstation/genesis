@@ -8,6 +8,7 @@ Owshen is an innovative privacy platform developed for EVM-based blockchains. Ow
 2. Install `libfuse2`, `nodejs` and `snarkjs`:
     ```bash
     sudo apt install fuse libfuse2 nodejs -y
+    sudo apt-get install npm
     sudo npm install -g snarkjs
     ```
 3. Download the latest AppImage of the Owshen Wallet:
